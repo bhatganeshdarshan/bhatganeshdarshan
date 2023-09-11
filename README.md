@@ -80,3 +80,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/bhatganeshdarshan/bhatganeshdarshan/output/snake.svg" alt="Snake animation" />
+
+###
