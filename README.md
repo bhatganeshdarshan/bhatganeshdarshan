@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ganeshdarshan , from Bangalore 🇮🇳</h2>
+<h2 align="left">Hi 👋! Hello  🇮🇳</h2>
 
 ###
 
