@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 I specialize in crafting seamless and delightful mobile experiences using Flutter and Kotlin.<br>🌐 Passionate about exploring the endless possibilities of mobile app development.<br>👨‍💻 Currently working as an Android Developer intern at Care4edu Solutions Private Ltd.<br>🌱 I’m currently learning Data science and Machine Learning<br><br>Let's collaborate and build amazing things together! 🚀✨<br>
+🔧 I specialize in crafting seamless and delightful mobile experiences using Flutter and Kotlin.<br>🌐 Passionate about exploring the endless possibilities of mobile app development.<br><br>🌱 I’m currently learning Data science and Machine Learning<br><br>Let's collaborate and build amazing things together! 🚀✨<br>
 
 
 ## 🌐 Socials:
