@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔧 I specialize in crafting seamless and delightful mobile experiences using Flutter and Kotlin.<br>🌐 Passionate about exploring the endless possibilities of mobile app development.<br><br>🌱 I’m currently learning Dart Frog and Jetpack compose<br><br>Let's collaborate and build amazing things together! 🚀✨<br>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ganeshdarshan18?theme=nord&font=Noto%20Sans%20Armenian&ext=contest)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=bhatganeshdarshan)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhatganeshdarshan10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshdarshan) 
